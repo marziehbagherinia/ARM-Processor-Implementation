@@ -1,0 +1,42 @@
+library verilog;
+use verilog.vl_types.all;
+entity ID_Stage_Reg is
+    port(
+        clk             : in     vl_logic;
+        rst             : in     vl_logic;
+        freeze          : in     vl_logic;
+        mem_read_en_in  : in     vl_logic;
+        mem_write_en_in : in     vl_logic;
+        wb_enable_in    : in     vl_logic;
+        immediate_in    : in     vl_logic;
+        branch_taken_in : in     vl_logic;
+        status_write_enable_in: in     vl_logic;
+        flush           : in     vl_logic;
+        PC_in           : in     vl_logic_vector(31 downto 0);
+        execute_command_in: in     vl_logic_vector(3 downto 0);
+        reg_file_in1    : in     vl_logic_vector(31 downto 0);
+        reg_file_in2    : in     vl_logic_vector(31 downto 0);
+        dest_reg_in     : in     vl_logic_vector(3 downto 0);
+        signed_immediate_in: in     vl_logic_vector(23 downto 0);
+        shift_operand_in: in     vl_logic_vector(11 downto 0);
+        status_reg_in   : in     vl_logic_vector(3 downto 0);
+        src1_addr_in    : in     vl_logic_vector(3 downto 0);
+        src2_addr_in    : in     vl_logic_vector(3 downto 0);
+        mem_read_en_out : out    vl_logic;
+        mem_write_en_out: out    vl_logic;
+        wb_enable_out   : out    vl_logic;
+        immediate_out   : out    vl_logic;
+        branch_taken_out: out    vl_logic;
+        status_write_enable_out: out    vl_logic;
+        PC_out          : out    vl_logic_vector(31 downto 0);
+        execute_command_out: out    vl_logic_vector(3 downto 0);
+        reg_file_out1   : out    vl_logic_vector(31 downto 0);
+        reg_file_out2   : out    vl_logic_vector(31 downto 0);
+        dest_reg_out    : out    vl_logic_vector(3 downto 0);
+        signed_immediate_out: out    vl_logic_vector(23 downto 0);
+        shift_operand_out: out    vl_logic_vector(11 downto 0);
+        status_reg_out  : out    vl_logic_vector(3 downto 0);
+        src1_addr_out   : out    vl_logic_vector(3 downto 0);
+        src2_addr_out   : out    vl_logic_vector(3 downto 0)
+    );
+end ID_Stage_Reg;

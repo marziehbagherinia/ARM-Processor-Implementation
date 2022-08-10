@@ -1,0 +1,625 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\altera\13.0sp1
+vAdder
+Z1 Il:PC3LheiTIbCbWaiRNj>1
+Z2 V<e`BS;P04mN[o?z9GJO>i0
+Z3 dC:\Users\ASUS\Desktop\ARM-master
+Z4 w1607515391
+Z5 8C:/Users/ASUS/Desktop/ARM-master/Adder.v
+Z6 FC:/Users/ASUS/Desktop/ARM-master/Adder.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@adder
+Z10 !s100 JBTGEfAzNAje>]W>]Na@a3
+Z11 !s108 1607693812.280000
+Z12 !s107 C:/Users/ASUS/Desktop/ARM-master/Adder.v|
+Z13 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/Adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU
+Z14 IMd4O3ITFTP?:_iO<KO]Rb0
+Z15 Vm`35b3XPEQP94f2YXh<Jk1
+R3
+Z16 w1607515075
+Z17 8C:/Users/ASUS/Desktop/ARM-master/ALU.v
+Z18 FC:/Users/ASUS/Desktop/ARM-master/ALU.v
+L0 3
+R7
+r1
+31
+R8
+Z19 n@a@l@u
+Z20 !s100 Q?DC9nhC;oQ^`YKTAMk:D1
+Z21 !s108 1607693812.333000
+Z22 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/ALU.v|
+Z23 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vARM_Module
+Z24 IJJ3z21ShRk^XH4f]0cA:[1
+Z25 V4:@2[>R=Z6=5omjCTPY`I2
+R3
+Z26 w1607693568
+Z27 8C:/Users/ASUS/Desktop/ARM-master/ARM_Module.v
+Z28 FC:/Users/ASUS/Desktop/ARM-master/ARM_Module.v
+L0 3
+R7
+r1
+31
+R8
+Z29 n@a@r@m_@module
+Z30 !s100 m6AEl`@>R]OTUXC;?UAm13
+Z31 !s108 1607693812.444000
+Z32 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/ARM_Module.v|
+Z33 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/ARM_Module.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vConditionalCheck
+Z34 If`T><Y9Njh?I=`72n=UDD1
+Z35 VBjKV?Nfg;fOV6EPOoEDTo1
+R3
+Z36 w1607520078
+Z37 8C:/Users/ASUS/Desktop/ARM-master/ConditionalCheck.v
+Z38 FC:/Users/ASUS/Desktop/ARM-master/ConditionalCheck.v
+L0 3
+R7
+r1
+31
+R8
+Z39 n@conditional@check
+Z40 !s100 JY]f1h2CY1CRnKH=8;h_S0
+Z41 !s108 1607693812.511000
+Z42 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/ConditionalCheck.v|
+Z43 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/ConditionalCheck.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vControlUnit
+Z44 IT1[SbK``HKAUEa58oAFf]1
+Z45 V2BV7oDm_M:NQV7=Wibi?50
+R3
+Z46 w1607686756
+Z47 8C:/Users/ASUS/Desktop/ARM-master/ControlUnit.v
+Z48 FC:/Users/ASUS/Desktop/ARM-master/ControlUnit.v
+L0 3
+R7
+r1
+31
+R8
+Z49 n@control@unit
+Z50 !s100 oEM:GD=lzR5dC6<ZSkfXE1
+Z51 !s108 1607693812.586000
+Z52 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/ControlUnit.v|
+Z53 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/ControlUnit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vEX_Stage
+Z54 I9MWZXaGVYK4ge8eN]5Ca>1
+Z55 VY^S5Ub5R<8VLAF_`E<o8J2
+R3
+Z56 w1607490591
+Z57 8C:/Users/ASUS/Desktop/ARM-master/EX_Stage.v
+Z58 FC:/Users/ASUS/Desktop/ARM-master/EX_Stage.v
+L0 3
+R7
+r1
+31
+R8
+Z59 n@e@x_@stage
+Z60 !s100 C5Fn?HT?eIMPW8_5CGb`N0
+Z61 !s108 1607693812.732000
+Z62 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/EX_Stage.v|
+Z63 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/EX_Stage.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vEX_Stage_Module
+Z64 Iok<8TMzMZQ0J[MW6TDc2K3
+Z65 VK>]C4eMckd=cie=;i=eiS0
+R3
+Z66 w1607489280
+Z67 8C:/Users/ASUS/Desktop/ARM-master/EX_Stage_Module.v
+Z68 FC:/Users/ASUS/Desktop/ARM-master/EX_Stage_Module.v
+L0 3
+R7
+r1
+31
+R8
+Z69 n@e@x_@stage_@module
+Z70 !s100 ;3g`l_Rj7BeO9mKKkLF;l3
+Z71 !s108 1607693812.816000
+Z72 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/EX_Stage_Module.v|
+Z73 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/EX_Stage_Module.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vEX_Stage_Reg
+Z74 I6lWUejb?z>6`7_67bWFo60
+Z75 VDNaALgflgZKaXIT8[bL<N1
+R3
+Z76 w1607490153
+Z77 8C:/Users/ASUS/Desktop/ARM-master/EX_Stage_Reg.v
+Z78 FC:/Users/ASUS/Desktop/ARM-master/EX_Stage_Reg.v
+L0 3
+R7
+r1
+31
+R8
+Z79 n@e@x_@stage_@reg
+Z80 !s100 z<K`Wc8ZM[5m>9RS?o@f01
+Z81 !s108 1607693812.907000
+Z82 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/EX_Stage_Reg.v|
+Z83 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/EX_Stage_Reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vForwarding
+Z84 IGoGo7E^OH_LFYiQJI8^oN0
+Z85 Vb0lB3eWF6dO_k76WLD=9P0
+R3
+Z86 w1607502423
+Z87 8C:/Users/ASUS/Desktop/ARM-master/Forwarding.v
+Z88 FC:/Users/ASUS/Desktop/ARM-master/Forwarding.v
+L0 3
+R7
+r1
+31
+R8
+Z89 n@forwarding
+Z90 !s100 <GF7d8Xl[Y4[5:S<>N;n^0
+Z91 !s108 1607693812.975000
+Z92 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/Forwarding.v|
+Z93 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/Forwarding.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHazard_Detection_Unit
+Z94 IcTFlc`De_zfGVDlgn^k4b3
+Z95 VIENRBWo=YmAd9W[56XX;^1
+R3
+Z96 w1607501995
+Z97 8C:/Users/ASUS/Desktop/ARM-master/Hazard_Detection_Unit.v
+Z98 FC:/Users/ASUS/Desktop/ARM-master/Hazard_Detection_Unit.v
+L0 3
+R7
+r1
+31
+R8
+Z99 n@hazard_@detection_@unit
+Z100 !s100 [zT3F0JNoYi4cn:SBAznk2
+Z101 !s108 1607693813.059000
+Z102 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/Hazard_Detection_Unit.v|
+Z103 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/Hazard_Detection_Unit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vID_Stage
+Z104 I@;2S9`PO;PU>4b8igS<^m1
+Z105 Vk@WlfDfln@ZHk[j[HA=NM2
+R3
+Z106 w1607455572
+Z107 8C:/Users/ASUS/Desktop/ARM-master/ID_Stage.v
+Z108 FC:/Users/ASUS/Desktop/ARM-master/ID_Stage.v
+L0 3
+R7
+r1
+31
+R8
+Z109 n@i@d_@stage
+Z110 !s100 TRJX;9ib_KG64]afSnZa]1
+Z111 !s108 1607693813.152000
+Z112 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/ID_Stage.v|
+Z113 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/ID_Stage.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vID_Stage_Module
+Z114 IeUM[f2]=;=TmhUHW_jQ?X0
+Z115 V<KzFnl[f8NBV3a@39D8`A1
+R3
+Z116 w1607444842
+Z117 8C:/Users/ASUS/Desktop/ARM-master/ID_Stage_Module.v
+Z118 FC:/Users/ASUS/Desktop/ARM-master/ID_Stage_Module.v
+L0 3
+R7
+r1
+31
+R8
+Z119 n@i@d_@stage_@module
+Z120 !s100 73`nYJHWBNg>5I=UC4fQF2
+Z121 !s108 1607693813.238000
+Z122 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/ID_Stage_Module.v|
+Z123 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/ID_Stage_Module.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vID_Stage_Reg
+Z124 IOXz<EnDC<B?[Q6l]HZBDd1
+Z125 VmXKFj7zA:oz6JlnMQ97H20
+R3
+Z126 w1607456464
+Z127 8C:/Users/ASUS/Desktop/ARM-master/ID_Stage_Reg.v
+Z128 FC:/Users/ASUS/Desktop/ARM-master/ID_Stage_Reg.v
+L0 3
+R7
+r1
+31
+R8
+Z129 n@i@d_@stage_@reg
+Z130 !s100 4oAdO[1<F0>X`CORFDHY@3
+Z131 !s108 1607693813.309000
+Z132 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/ID_Stage_Reg.v|
+Z133 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/ID_Stage_Reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIF_Stage
+Z134 IK<c`j>GF[T5G2Y11DmKgz0
+Z135 V@;EAl>bPJPEEYb<BIidE80
+R3
+Z136 w1607488517
+Z137 8C:/Users/ASUS/Desktop/ARM-master/IF_Stage.v
+Z138 FC:/Users/ASUS/Desktop/ARM-master/IF_Stage.v
+L0 3
+R7
+r1
+31
+R8
+Z139 n@i@f_@stage
+Z140 !s100 YXZVO9SdEjmijY8KOI>BI3
+Z141 !s108 1607693813.375000
+Z142 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/IF_Stage.v|
+Z143 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/IF_Stage.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIF_Stage_Module
+Z144 I5Le_dzMlHVG8i_Xbn?Ak>1
+Z145 VWXPKWI80ml0A3^bbiJ`AR1
+R3
+Z146 w1607487756
+Z147 8C:/Users/ASUS/Desktop/ARM-master/IF_Stage_Module.v
+Z148 FC:/Users/ASUS/Desktop/ARM-master/IF_Stage_Module.v
+L0 3
+R7
+r1
+31
+R8
+Z149 n@i@f_@stage_@module
+Z150 !s100 CC?MRiY]T2Oo96:7@99:Y1
+Z151 !s108 1607693813.444000
+Z152 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/IF_Stage_Module.v|
+Z153 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/IF_Stage_Module.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIF_Stage_Reg
+Z154 IBOP8TADlFeIo:TIeme[YY3
+Z155 VT<83U3PaMTOEUg=lKR6@i1
+R3
+Z156 w1607488250
+Z157 8C:/Users/ASUS/Desktop/ARM-master/IF_Stage_Reg.v
+Z158 FC:/Users/ASUS/Desktop/ARM-master/IF_Stage_Reg.v
+L0 3
+R7
+r1
+31
+R8
+Z159 n@i@f_@stage_@reg
+Z160 !s100 ZJFHI@83H?]?dI]2Ybfbe2
+Z161 !s108 1607693813.508000
+Z162 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/IF_Stage_Reg.v|
+Z163 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/IF_Stage_Reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIncrementer
+Z164 I3c`a:REBa>7X5XRjhD5XE0
+Z165 V7n91^[W`<Y_=UR7FhOzF33
+R3
+Z166 w1607505985
+Z167 8C:/Users/ASUS/Desktop/ARM-master/Incrementer.v
+Z168 FC:/Users/ASUS/Desktop/ARM-master/Incrementer.v
+L0 1
+R7
+r1
+31
+R8
+Z169 n@incrementer
+Z170 !s100 ?CFDjVdDLiF_6_fk2>Fd`2
+Z171 !s108 1607693813.594000
+Z172 !s107 C:/Users/ASUS/Desktop/ARM-master/Incrementer.v|
+Z173 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/Incrementer.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vInstructionMemory
+Z174 IFLLRNOCW7`NnGFTIRgEc`2
+Z175 VUN?PGc2g8n4D3>L0LC>X`3
+R3
+Z176 w1607632423
+Z177 8C:/Users/ASUS/Desktop/ARM-master/InstructionMemory.v
+Z178 FC:/Users/ASUS/Desktop/ARM-master/InstructionMemory.v
+L0 3
+R7
+r1
+31
+R8
+Z179 n@instruction@memory
+Z180 !s100 eoEOR[4;bMZoRloQg34Ub3
+Z181 !s108 1607693813.686000
+Z182 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/InstructionMemory.v|
+Z183 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/InstructionMemory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMEM_Stage
+Z184 IEVOE^I4VNMZLBKe7?bQeW1
+Z185 V4J?ll1bIZ]4k3MgAbcV=A3
+R3
+Z186 w1607693339
+Z187 8C:/Users/ASUS/Desktop/ARM-master/MEM_Stage.v
+Z188 FC:/Users/ASUS/Desktop/ARM-master/MEM_Stage.v
+L0 3
+R7
+r1
+31
+R8
+Z189 n@m@e@m_@stage
+Z190 !s100 4WPMRVAo1gh6OSAbb=Agk3
+Z191 !s108 1607693813.826000
+Z192 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/MEM_Stage.v|
+Z193 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/MEM_Stage.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMEM_Stage_Module
+Z194 I;o<z5l:aYMUM@gLEYcJFA3
+Z195 V?2U<jZG1HU_L7`KY0`LP83
+R3
+Z196 w1607693504
+Z197 8C:/Users/ASUS/Desktop/ARM-master/MEM_Stage_Module.v
+Z198 FC:/Users/ASUS/Desktop/ARM-master/MEM_Stage_Module.v
+L0 3
+R7
+r1
+31
+R8
+Z199 n@m@e@m_@stage_@module
+Z200 !s100 MYHRBEQF69LDN;F08B^nl2
+Z201 !s108 1607693813.903000
+Z202 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/MEM_Stage_Module.v|
+Z203 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/MEM_Stage_Module.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMEM_Stage_Reg
+Z204 IXLbLFP^bQfk`jXmW6b:5N3
+Z205 VQRzUMC;`ac8MT^9OggfjN0
+R3
+Z206 w1607593771
+Z207 8C:/Users/ASUS/Desktop/ARM-master/MEM_Stage_Reg.v
+Z208 FC:/Users/ASUS/Desktop/ARM-master/MEM_Stage_Reg.v
+L0 3
+R7
+r1
+31
+R8
+Z209 n@m@e@m_@stage_@reg
+Z210 !s100 8Kk:A061PK4754L0N7cCI3
+Z211 !s108 1607693813.981000
+Z212 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/MEM_Stage_Reg.v|
+Z213 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/MEM_Stage_Reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMemory
+Z214 IXO8[Nl?VmI[1^3[6LEh3<2
+Z215 VTfFchBQ?0E``MICh?VUf;0
+R3
+Z216 w1607689223
+Z217 8C:/Users/ASUS/Desktop/ARM-master/Memory.v
+Z218 FC:/Users/ASUS/Desktop/ARM-master/Memory.v
+L0 3
+R7
+r1
+31
+R8
+Z219 n@memory
+Z220 !s100 M<gzH2FQJZLf>[zHcRUY30
+Z221 !s108 1607693814.058000
+Z222 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/Memory.v|
+Z223 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/Memory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMUX_2_to_1
+Z224 I78JKGJEB8_UHGE=H?ZDT:1
+Z225 V^lU>4I3=oZSmb`HSBAc2;0
+R3
+Z226 w1607514974
+Z227 8C:/Users/ASUS/Desktop/ARM-master/MUX.v
+Z228 FC:/Users/ASUS/Desktop/ARM-master/MUX.v
+L0 3
+R7
+r1
+31
+Z229 !s108 1607693814.147000
+Z230 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/MUX.v|
+Z231 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/MUX.v|
+R8
+Z232 n@m@u@x_2_to_1
+Z233 !s100 YX7PnbQeIfA[gXU<G5iY_3
+!i10b 1
+!s85 0
+!s101 -O0
+vMUX_3_to_1
+Z234 I`m@Q7fTFSdjIGd>J22h3S3
+Z235 V>njWg@8`0dMfj0IME@O`T1
+R3
+R226
+R227
+R228
+L0 20
+R7
+r1
+31
+R229
+R230
+R231
+R8
+Z236 n@m@u@x_3_to_1
+Z237 !s100 =a:Ezdc7Yia@faZT_T7Sz3
+!i10b 1
+!s85 0
+!s101 -O0
+vRegister
+Z238 IZCf9XF5eMX1BF:PfLVALa0
+Z239 V@4GO5B<l:IVPS;E;8B3e42
+R3
+Z240 w1607515167
+Z241 8C:/Users/ASUS/Desktop/ARM-master/Register.v
+Z242 FC:/Users/ASUS/Desktop/ARM-master/Register.v
+L0 1
+R7
+r1
+31
+R8
+Z243 n@register
+Z244 !s100 MXKbBK;alH9PnB;jAI]Cz2
+Z245 !s108 1607693814.248000
+Z246 !s107 C:/Users/ASUS/Desktop/ARM-master/Register.v|
+Z247 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/Register.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegister_Flush
+Z248 I:BRIP78JnT1L=njRKg=3>3
+Z249 VT29_gQ[<H4WP4l28SJPFG3
+R3
+Z250 w1607515360
+Z251 8C:/Users/ASUS/Desktop/ARM-master/Register_Flush.v
+Z252 FC:/Users/ASUS/Desktop/ARM-master/Register_Flush.v
+L0 1
+R7
+r1
+31
+R8
+Z253 n@register_@flush
+Z254 !s100 N6_`5Ii<[haFH_8CZg1Xb2
+Z255 !s108 1607693814.330000
+Z256 !s107 C:/Users/ASUS/Desktop/ARM-master/Register_Flush.v|
+Z257 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/Register_Flush.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegisterFile
+Z258 ILighl72U=A`aR9__K[TZ83
+Z259 V[bzJh_SbQW[23FjO^QkQZ1
+R3
+Z260 w1607515319
+Z261 8C:/Users/ASUS/Desktop/ARM-master/RegisterFile.v
+Z262 FC:/Users/ASUS/Desktop/ARM-master/RegisterFile.v
+L0 3
+R7
+r1
+31
+R8
+Z263 n@register@file
+Z264 !s100 ]njlRO@PG3:lN;d9nPY9e2
+Z265 !s108 1607693814.398000
+Z266 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/RegisterFile.v|
+Z267 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/RegisterFile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vStatus_Register
+Z268 Ij0M8V<RO]ggL5oiVSNlae2
+Z269 VnLnXj:zPHTC`i0ngJjEMk0
+R3
+Z270 w1607501776
+Z271 8C:/Users/ASUS/Desktop/ARM-master/Status_Register.v
+Z272 FC:/Users/ASUS/Desktop/ARM-master/Status_Register.v
+L0 3
+R7
+r1
+31
+R8
+Z273 n@status_@register
+Z274 !s100 mPHCk4TE_NHcLio[5mj]Z2
+Z275 !s108 1607693814.475000
+Z276 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/Status_Register.v|
+Z277 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/Status_Register.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTB
+Z278 I20jb@PO<`?;mdmlKNj<3Q0
+Z279 Vc<=32996OT2f`M7E_UhYX1
+R3
+Z280 w1607693592
+Z281 8C:/Users/ASUS/Desktop/ARM-master/TB.v
+Z282 FC:/Users/ASUS/Desktop/ARM-master/TB.v
+L0 1
+R7
+r1
+31
+R8
+n@t@b
+Z283 !s100 b1^9ZQ0OE[PoESGkzb=7c3
+Z284 !s108 1607693814.542000
+Z285 !s107 C:/Users/ASUS/Desktop/ARM-master/TB.v|
+Z286 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vVal2Generator
+Z287 I3MhW<9DD2e3]i[ONBKBL=0
+Z288 V57YzCWiX^FhFdRYX23IL42
+R3
+Z289 w1607503966
+Z290 8C:/Users/ASUS/Desktop/ARM-master/val2_generator.v
+Z291 FC:/Users/ASUS/Desktop/ARM-master/val2_generator.v
+L0 3
+R7
+r1
+31
+R8
+Z292 n@val2@generator
+!i10b 1
+Z293 !s100 OfH@<e;n=S024@<<H540j1
+!s85 0
+Z294 !s108 1607693814.619000
+Z295 !s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/val2_generator.v|
+Z296 !s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/val2_generator.v|
+!s101 -O0
+vWB_Stage
+!i10b 1
+!s100 C_]6;HAgb2D?b^FjVzU;l3
+IdeTLVNQS^IOGfeV:1gIXc2
+Vi1joNPB1DYj>hL7dU@QhM2
+R3
+w1607501678
+8C:/Users/ASUS/Desktop/ARM-master/WB_Stage.v
+FC:/Users/ASUS/Desktop/ARM-master/WB_Stage.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1607693814.698000
+!s107 ISA.v|Defines.v|C:/Users/ASUS/Desktop/ARM-master/WB_Stage.v|
+!s90 -reportprogress|300|-work|work|C:/Users/ASUS/Desktop/ARM-master/WB_Stage.v|
+!s101 -O0
+R8
+n@w@b_@stage

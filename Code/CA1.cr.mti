@@ -1,0 +1,219 @@
+C:/Users/ASUS/Desktop/ARM-master/val2_generator.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/val2_generator.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Val2Generator
+
+Top level modules:
+	Val2Generator
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/InstructionMemory.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/InstructionMemory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module InstructionMemory
+
+Top level modules:
+	InstructionMemory
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/WB_Stage.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/WB_Stage.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module WB_Stage
+
+Top level modules:
+	WB_Stage
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/Incrementer.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/Incrementer.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Incrementer
+
+Top level modules:
+	Incrementer
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/ID_Stage_Reg.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/ID_Stage_Reg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ID_Stage_Reg
+
+Top level modules:
+	ID_Stage_Reg
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/EX_Stage_Reg.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/EX_Stage_Reg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module EX_Stage_Reg
+
+Top level modules:
+	EX_Stage_Reg
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/TB.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/MEM_Stage_Module.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/MEM_Stage_Module.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MEM_Stage_Module
+
+Top level modules:
+	MEM_Stage_Module
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/IF_Stage_Reg.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/IF_Stage_Reg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IF_Stage_Reg
+
+Top level modules:
+	IF_Stage_Reg
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/ID_Stage.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/ID_Stage.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ID_Stage
+
+Top level modules:
+	ID_Stage
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/EX_Stage.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/EX_Stage.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module EX_Stage
+
+Top level modules:
+	EX_Stage
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/Memory.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/Memory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/ControlUnit.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/ControlUnit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ControlUnit
+
+Top level modules:
+	ControlUnit
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/MUX.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/MUX.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX_2_to_1
+-- Compiling module MUX_3_to_1
+
+Top level modules:
+	MUX_2_to_1
+	MUX_3_to_1
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/IF_Stage.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/IF_Stage.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IF_Stage
+
+Top level modules:
+	IF_Stage
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/ALU.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/Forwarding.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/Forwarding.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Forwarding
+
+Top level modules:
+	Forwarding
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/RegisterFile.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/RegisterFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/Register.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/Register.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/ID_Stage_Module.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/ID_Stage_Module.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ID_Stage_Module
+
+Top level modules:
+	ID_Stage_Module
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/ISA.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/ISA.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/ARM_Module.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/ARM_Module.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ARM_Module
+
+Top level modules:
+	ARM_Module
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/EX_Stage_Module.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/EX_Stage_Module.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module EX_Stage_Module
+
+Top level modules:
+	EX_Stage_Module
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/Register_Flush.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/Register_Flush.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register_Flush
+
+Top level modules:
+	Register_Flush
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/Defines.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/Defines.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/MEM_Stage_Reg.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/MEM_Stage_Reg.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MEM_Stage_Reg
+
+Top level modules:
+	MEM_Stage_Reg
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/IF_Stage_Module.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/IF_Stage_Module.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IF_Stage_Module
+
+Top level modules:
+	IF_Stage_Module
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/Hazard_Detection_Unit.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/Hazard_Detection_Unit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Hazard_Detection_Unit
+
+Top level modules:
+	Hazard_Detection_Unit
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/Status_Register.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/Status_Register.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Status_Register
+
+Top level modules:
+	Status_Register
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/Adder.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/Adder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/MEM_Stage.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/MEM_Stage.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MEM_Stage
+
+Top level modules:
+	MEM_Stage
+
+} {} {}} C:/Users/ASUS/Desktop/ARM-master/ConditionalCheck.v {1 {vlog -work work C:/Users/ASUS/Desktop/ARM-master/ConditionalCheck.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ConditionalCheck
+
+Top level modules:
+	ConditionalCheck
+
+} {} {}}
